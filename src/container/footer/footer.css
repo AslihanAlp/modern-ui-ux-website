@@ -66,6 +66,7 @@
     font-size: 12px;
     line-height: 14px;
     color: #FFFFFF;
+   
 }
 
 .gbt3__footer-links_div{
@@ -85,7 +86,7 @@
     font-size: 12px;
     line-height: 14px;
     color: #FFFFFF;
-    margin-bottom: 0.5rem 0;
+    padding-bottom: 0.5rem;
     cursor: pointer;
 }
 .gbt3__footer-copyright{
